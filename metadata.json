@@ -1,0 +1,5 @@
+{
+  "name": "SonicForge AI",
+  "description": "High-fidelity text-to-speech generation using Gemini 2.5 with AI-powered style enhancements and real-time audio visualization.",
+  "requestFramePermissions": []
+}
